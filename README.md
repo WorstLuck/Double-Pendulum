@@ -1,5 +1,5 @@
 # Image & GUI
-![Double Pendulum](https://github.com/WorstLuck/Double-Pendulum/blob/master/DoublePendulumPic.png)
+![Double Pendulum](https://github.com/WorstLuck/Double-Pendulum/blob/master/DoublePendulumPic.png)\
 Time evolution modelled using Euler's method.
 
 # Double Pendulum
